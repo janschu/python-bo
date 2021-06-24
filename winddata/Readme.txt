@@ -1,0 +1,1 @@
+Daten sind von DWD unter https://opendata.dwd.de/climate_environment/CDC/grids_germany/multi_annual/wind_parameters/resol_200x200/
